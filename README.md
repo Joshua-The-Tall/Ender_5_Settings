@@ -10,7 +10,7 @@ Settings that should be used for the Ender5+ for optimal functionality, as well 
 -Upgraded with the "volcano" (v6) nozzle from E3D (Used for higher speeds)  
 -!!OLD!! Flashed Firmware to Marlin 2  
 -Firmware is still Marlin 2, however the machine is now being controlled via Klipper  
-  -This is controlled via Klipperscreen, the touchscreen currently attached to the frame and the Raspberry Pi 4b underneath it.  
+    -This is controlled via Klipperscreen, the touchscreen currently attached to the frame and the Raspberry Pi 4b underneath it.  
 -Belt Tensioner on the X-axis  
 -Dual Gear Extruder motor  
 
