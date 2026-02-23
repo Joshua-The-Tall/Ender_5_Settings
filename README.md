@@ -1,15 +1,18 @@
 # Ender_5_Settings
 Settings that should be used for the Ender5+ for optimal functionality, as well as general info.
 
-## Download the newest config bundle and import it via PrusaSlicer, to use the best settings
+----------------------------------------
+# !!! IMPORTANT !!!
+# Download the newest config bundle and import it via PrusaSlicer, to use the best settings
+-----------------------------------------
 
 # Current Modifications from the stock design:
--Upgraded with the "volcano" (v6) nozzle from E3D (Used for higher speeds)
--!!OLD!! Flashed Firmware to Marlin 2
--Firmware is still Marlin 2, however the machine is now being controlled via Klipper
-  -This is controlled via Klipperscreen, the touchscreen currently attached to the frame and the Raspberry Pi 4b underneath it.
--Belt Tensioner on the X-axis
--Dual Gear Extruder motor 
+-Upgraded with the "volcano" (v6) nozzle from E3D (Used for higher speeds)  
+-!!OLD!! Flashed Firmware to Marlin 2  
+-Firmware is still Marlin 2, however the machine is now being controlled via Klipper  
+  -This is controlled via Klipperscreen, the touchscreen currently attached to the frame and the Raspberry Pi 4b underneath it.  
+-Belt Tensioner on the X-axis  
+-Dual Gear Extruder motor  
 
 
 
