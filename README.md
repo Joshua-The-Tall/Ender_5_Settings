@@ -16,7 +16,7 @@ Settings that should be used for the Ender5+ for optimal functionality, as well 
 
 
 
-
+-----------------------------------------
 # Old Instructions Below----
 
 **----To use the Gcode----**
