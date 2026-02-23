@@ -1,6 +1,12 @@
 # Ender_5_Settings
 Settings that should be used for the Ender5+ for optimal functionality.
 
+Download the newest config bundle and import it via PrusaSlicer
+
+
+
+OLD BELOW
+
 **----To use the Gcode----**
 
 -If you have already added the ender 5+ machine, skip the first paragraph!
