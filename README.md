@@ -7,7 +7,7 @@ Settings that should be used for the Ender5+ for optimal functionality, as well 
 Then scroll down and select...  
 -Print Settings: "0.2mm (0.4noz) Stable Speed"  
 -Filaments: "Generic PLA+ Stable"    (unless you're printing with PETG)  
--Printers: "Creality Ender-5 Plus - StableKlipper"  
+-Printers: "Creality Ender-5 Plus - StableKlipper 0.4Noz"  
 -----------------------------------------
 
 # Current Modifications from the stock design:
